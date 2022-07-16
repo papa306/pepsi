@@ -1,0 +1,3 @@
+IP: Beliverssmp7EKW.aternos.me:26969
+Port: 26969
+NAME: usman
